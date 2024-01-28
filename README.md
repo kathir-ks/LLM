@@ -1,3 +1,3 @@
 # LLM
- A small project to build a llm from scratch
+ A small code to build a transformer from scratch
  
